@@ -9,7 +9,7 @@ This site contains reading notes to the Codefellows 201 course.
 
 ---
 
-- [one](LINK)
+- [one](class-01.md)
 - [two]()
 - [three]()
 - [four]()
