@@ -10,7 +10,7 @@ This site contains reading notes to the Codefellows 201 course.
 ---
 
 - **[introductory to html + javascript](intro.md)**
-- [two]()
+- **[the basics of html, css, + javascript](basics.md)**
 - [three]()
 - [four]()
 - [five]()
