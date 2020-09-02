@@ -50,3 +50,7 @@ due to type coercion, every value in JavaScript can be treated as if it were tru
     - as long as it's not falsy it can be treated as true
 the presence of an object or an array is usually considered truthy too
 - common when checking for the presence of an element on a page
+
+*refer to loop notes in code 102 read-me*
+
+[<===](README.md)
