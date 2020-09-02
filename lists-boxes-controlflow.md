@@ -29,9 +29,9 @@
 - array literal - method for creating an array
 - array constructor - usere the new keyway
 
-```colors = ['white'```
-          ```'black'```
-          ```'custom'];```
+colors = ['white'
+          'black'
+          'custom'];
 
 **SWITCH STATEMENTS**
     - starts with a variable called the ```switch value```
