@@ -127,6 +127,6 @@ Multiple CSS files can be included in one page
 - to create a function, you give it a name and then write the statements needed to achieve its task inside the curly braces
 
 ### Calling Functions That Need Information
-**Arguements** - the values that you specify the function should use in the parenthesis that follow its name. can be provided as values or variables
+**Arguments** - the values that you specify the function should use in the parenthesis that follow its name. can be provided as values or variables
 
 [<===](README.md)
