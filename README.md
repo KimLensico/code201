@@ -12,7 +12,7 @@ This site contains reading notes to the Codefellows 201 course.
 - **[introductory to html + javascript](intro.md)**
 - **[the basics of html, css, + javascript](basics.md)**
 - **[html lists, css boxes, + javascript overflow](lists-boxes-controlflow.md)**
-- [four]()
+- **[html links, css layouts, and javascript functions](linklayfunct.md)**
 - [five]()
 - [six]()
 - [seven]()
