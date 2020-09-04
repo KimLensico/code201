@@ -60,15 +60,12 @@ more selectors:
 
 SELECTORS | MEANING
 |--------------|-----------|
-|Existence | ```[]``` Matches a specific attribute
-(whatever its value) ex: ```p[class]```|
+|Existence | ```[]``` Matches a specific attribute (whatever its value) ex: ```p[class]```|
 |Equality | ```[=]``` Matches a specific attribute with a specific value ex: ```p[class="dog"]```|
-|Space | ```[~=]``` Matches a specific attribute whose value appears in a spaceseparated list of words|
-|Prefix | ```[~=]``` Matches a specific attribute
-whose value begins with a specific string |
+|Space | ```[~=]``` Matches a specific attribute whose value appears in a space-separated list of words|
+|Prefix | ```[~=]``` Matches a specific attribute whose value begins with a specific string |
 |SubString | ```[*=]``` Matches a specific attribute whose value contains a specific substring |
-|Suffix | ```[$=]``` Matches a specific attribute
-whose value ends with a specific string |
+|Suffix | ```[$=]``` Matches a specific attribute whose value ends with a specific string |
 
 
 [<===](README.md)
