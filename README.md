@@ -14,7 +14,7 @@ This site contains reading notes to the Codefellows 201 course.
 - **[html lists, css boxes, + javascript overflow](lists-boxes-controlflow.md)**
 - **[html links, css layouts, and javascript functions](linklayfunct.md)**
 - **[html images; css color + text](imagecolortext.md)**
-- [six]()
+- **[problem domain, objects, + the dom](probobjdom.md)**
 - [seven]()
 - [eight]()
 - [nine]()
