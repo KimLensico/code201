@@ -1,7 +1,7 @@
 # Problem Domain, Objects, + the DOM
 
 ## Objects
-Objects gorup together a set of variables and functions to create a model of a something yyou would recognize from the real world. In n object, variables and functions take on new names. 
+Objects group together a set of variables and functions to create a model of something you would recognize from the real world. In n object, variables and functions take on new names. 
 - in an object: 
     - variables become known as *properties* 
         - tells us about the object 
@@ -15,7 +15,7 @@ Objects gorup together a set of variables and functions to create a model of a s
 
 ### Creating an object: Literal notation
 literal notation is the easiest and most popular wat ocreate objects - there are several was to create objects
-- the object is the curtly braces and their contents 
+- the object is the curly braces and their contents 
 - separate each key from its value using a colon
 - separate each property and method with a comma 
     - not after the last value 
@@ -29,7 +29,7 @@ Literal notation as the easiest and most popular wat to create objects.
 - to access a property: you use *dot notation*
     - use the name of the object
     - follow the object by a period
-    - name the propert or method you want to access 
+    - name the property or method you want to access 
 - the period is known as the *member operator*
     - the property or method on its right is a member of the object on its left 
 - you can also access the properties of an object - BUT NOT ITS METHODS - using *square bracket syntax*
@@ -85,8 +85,8 @@ as a browser loads a web page, it creates a model of that page
                 - it is the starting point for all visits to the DOM tree. 
         - ELEMENT NODE :
             - HTML elements describe the structure of an HTML page. 
-                - (The <h l > - <h6> elements describe whatparts are headings,
-                - the <p> tags indicate where paragraphs of text start and finish, etc
+                - (The ```<hl>``` - ```<h6>``` elements describe what parts are headings,
+                - the ```<p>``` tags indicate where paragraphs of text start and finish, etc
             - to access the DOM tree, you start by looking for elements
             - once you find the element you want, you can access its text and attribute nodes if you  want to
             - this is why you start by learning methods that allow you to access element nodes, before learning to access and alter text or attributes. 
@@ -96,7 +96,7 @@ as a browser loads a web page, it creates a model of that page
             - attribute nodes are not children of the element that carries them
                 - they are *part of that element* 
                 - once you access an element, there are specific JavaScript methods and properties to read or change that element's attributes.
-                    - for example, it is common to change the values of cl ass attributes to trigger new  CSS rules that affect their presentation. 
+                    - for example, it is common to change the values of class attributes to trigger new  CSS rules that affect their presentation. 
         - TEXT NODES
             - once you have accessed an element node, you can then reach the text within that element
             - this is stored in its own *text node* 
@@ -104,5 +104,5 @@ as a browser loads a web page, it creates a model of that page
             - if an element contains text and another child element:
                 - the child element is not a child of the text node but rather a child of the containing element.
 
-                
+
 [<==back](README.md)
