@@ -16,7 +16,7 @@ This site contains reading notes to the Codefellows 201 course.
 - **[html images; css color + text](imagecolortext.md)**
 - **[problem domain, objects, + the dom](probobjdom.md)**
 - **[object-oriented programming, html tables](progtables.md)**
-- [eight]()
+- **[more css](morecss.md)**
 - [nine]()
 - [ten]()
 - [eleven]()
