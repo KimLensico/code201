@@ -18,8 +18,8 @@ This site contains reading notes to the Codefellows 201 course.
 - **[object-oriented programming, html tables](progtables.md)**
 - **[more css](morecss.md)**
 - **[forms + js events](formsandevents.md)**
-- [ten]()
-- [eleven]()
+- **[debugging](debugging.md)**
+- **[audio, video, images](avi.md)**
 - [twelve]()
 - [thirteen]()
 - [fourteen]()
