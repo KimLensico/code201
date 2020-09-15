@@ -20,7 +20,7 @@ This site contains reading notes to the Codefellows 201 course.
 - **[forms + js events](formsandevents.md)**
 - **[debugging](debugging.md)**
 - **[audio, video, images](avi.md)**
-- [twelve]()
+- **[chart.js, canvas](chartjscanvas.md)**
 - [thirteen]()
 - [fourteen]()
 - [fifteen]()
