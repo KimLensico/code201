@@ -21,7 +21,7 @@ This site contains reading notes to the Codefellows 201 course.
 - **[debugging](debugging.md)**
 - **[audio, video, images](avi.md)**
 - **[chart.js, canvas](chartjscanvas.md)**
-- [thirteen]()
+- **[local storage](localstorage.md)**
 - [fourteen]()
 - [fifteen]()
 
