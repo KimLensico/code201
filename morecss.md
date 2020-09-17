@@ -42,4 +42,4 @@ If a containing element only contains floated elements, some browsers will treat
 - The ```overflow``` property is given a value ```auto```.
 - The ```width``` property is set to ```100%```
 
-[<==back](README.md)
+**[🠴 RETURN](README.md)**

@@ -22,6 +22,6 @@ This site contains reading notes to the Codefellows 201 course.
 - **[audio, video, images](avi.md)**
 - **[chart.js, canvas](chartjscanvas.md)**
 - **[local storage](localstorage.md)**
-- [fourteen]()
-- [fifteen]()
+- **[css transforms, transitions, + animations](ttanda.md)**
+- **[teams](teams.md)**
 

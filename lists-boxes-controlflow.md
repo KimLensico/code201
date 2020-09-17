@@ -53,4 +53,4 @@ the presence of an object or an array is usually considered truthy too
 
 *refer to loop notes in code 102 read-me*
 
-[<===](README.md)
+**[🠴 RETURN](README.md)**

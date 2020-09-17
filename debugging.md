@@ -146,4 +146,4 @@ Common errors in scripts:
 - missed/extera characters
 - data type issues
 
-[<==back](README.md)
+**[🠴 RETURN](README.md)**

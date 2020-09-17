@@ -172,3 +172,5 @@ Fills an additional triangular area between the common endpoint of connected seg
 
 ```miter```
 Connected segments are joined by extending their outside edges to connect at a single point, with the effect of filling an additional lozenge-shaped area. This setting is effected by the miterLimit property which is explained below
+
+**[🠴 RETURN](README.md)**
